@@ -71,7 +71,7 @@ main{
 @media screen and (max-width:768px) {
 
 main{
-   width: 90%;
+   width: fit-content;
    margin: 50px auto;
 }
 }

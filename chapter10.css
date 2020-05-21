@@ -71,14 +71,16 @@ main{
 @media screen and (max-width:768px) {
 
 main{
-   width: fit-content;
-   margin: 50px auto;
+   width: 100%;
+   margin: 50px;
 }
 }
 @media screen and (max-width:768px) {
 
 .step-box{
+  width: 90%;
   float: none;
   margin-bottom: 20px;
+  margin-right: 0;
 }
 }

@@ -72,7 +72,7 @@ main{
 
 main{
    width: 100%;
-   margin: 50px;
+   margin: 50px 0%;
 }
 }
 @media screen and (max-width:768px) {
